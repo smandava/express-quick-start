@@ -1,6 +1,6 @@
 # express-quick-start
 
-Quick start project template for starting a NodeJs server side application with NodeMon, ES6 modules (using babel), ESLint, Prettier and Docker.
+Project template for starting a NodeJs server side application with NodeMon, ES6 modules (with babel), ESLint/Prettier and Docker.
 
 ## Initial setup
 
